@@ -1,0 +1,3 @@
+upload the entire folder to your host- www for wamp and htdocs for xampp
+import the .sql script in the database folder into mysql using phpmyadmin, no passowrds required
+open the application via your localhost
